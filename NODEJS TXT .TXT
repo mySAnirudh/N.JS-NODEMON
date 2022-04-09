@@ -1,0 +1,16 @@
+
+   ** NODEMOON ** 
+    
+   1. What is Nodemon package?
+
+   2. How to install Nodemon?
+
+   3. How to use it?
+ 
+   ** Nodemon || Time saving module 
+
+   -> Nodemon module use karke ham time save kar sakte hai
+
+   -> For install Nodemon Cammand :-(npm i nodemon) use (-g for global install) 
+    when we use -g then it's install globali in out system 
+    so use (npm i nodemon -g)
